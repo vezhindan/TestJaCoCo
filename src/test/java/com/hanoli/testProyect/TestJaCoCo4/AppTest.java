@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void imprimirHolaTest () {
     	String prueba = "hola";
-    	assertEquals("Hola, mai neim hola bebe is "+ prueba, App.imprimirHola(prueba)); //importante bebe
+    	assertEquals("Hola, mai neim is "+ prueba, App.imprimirHola(prueba)); //importante bebe
     }
 }
